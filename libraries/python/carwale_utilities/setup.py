@@ -5,7 +5,7 @@ if __name__ == "__main__":
         long_description = fh.read()
 
     setuptools.setup(
-        name='carwale_utilities',
+        name='carwaleutilities',
         version='0.0.1',
         author='CarWale',
         author_email='',
