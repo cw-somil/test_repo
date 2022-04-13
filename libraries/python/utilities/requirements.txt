@@ -1,0 +1,4 @@
+boto3~=1.21.39
+consulate~=0.6.0
+PyYAML~=6.0
+setuptools~=57.0.0
